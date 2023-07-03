@@ -32,4 +32,9 @@ if '%errorlevel%' NEQ '0' (
 :--------------------------------------    
 taskkill /F /IM AdobeCollabSync.exe
 taskkill /F /IM AGMService.exe
+taskkill /F /IM AGSService.exe
 taskkill /F /IM armsvc.exe
+taskkill /F /IM AdobeIPCBroker.exe
+taskkill /F /IM CCLibrary.exe
+taskkill /F /IM CCXProcess.exe
+taskkill /F /IM CoreSync.exe

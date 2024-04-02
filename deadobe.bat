@@ -38,3 +38,5 @@ taskkill /F /IM AdobeIPCBroker.exe
 taskkill /F /IM CCLibrary.exe
 taskkill /F /IM CCXProcess.exe
 taskkill /F /IM CoreSync.exe
+taskkill /F /IM "Adobe Crash Processor.exe"
+taskkill /F /IM AdobeIPCBroker.exe
